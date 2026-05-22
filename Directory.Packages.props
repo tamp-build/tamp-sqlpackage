@@ -19,6 +19,8 @@
 
   <ItemGroup Label="Tamp packages">
     <PackageVersion Include="Tamp.Core" Version="1.11.1" />
+    <PackageVersion Include="Tamp.NetCli.V10" Version="1.11.1" />
+    <PackageVersion Include="Tamp.Telegram" Version="0.1.0" />
   </ItemGroup>
 
 </Project>
