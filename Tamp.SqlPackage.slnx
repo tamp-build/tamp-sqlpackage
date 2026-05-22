@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Tamp.SqlPackage/Tamp.SqlPackage.csproj" />
+  <Project Path="tests/Tamp.SqlPackage.Tests/Tamp.SqlPackage.Tests.csproj" />
+</Solution>
